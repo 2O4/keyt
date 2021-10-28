@@ -1,0 +1,22 @@
+{
+  "name": "Keyt",
+  "description": "Stateless password manager and generator.",
+  "version": "0.2.2",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting", "clipboardWrite"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/keyt16.png",
+      "32": "/images/keyt32.png",
+      "48": "/images/keyt48.png",
+      "128": "/images/keyt128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/keyt16.png",
+    "32": "/images/keyt32.png",
+    "48": "/images/keyt48.png",
+    "128": "/images/keyt128.png"
+  }
+}
